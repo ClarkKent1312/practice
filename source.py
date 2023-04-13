@@ -5,7 +5,7 @@ def func2():
 	print("Hello, I am in function2")
 
 def func3():
-	x = 15
+	x = 29
 	print(s)
 
 func1()
