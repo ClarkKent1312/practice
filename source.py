@@ -6,7 +6,7 @@ def func2():
 
 def func3():
 	x = 29
-	print(s)
+	print(x)
 
 func1()
 func2()
