@@ -2,7 +2,7 @@ def func1():
 	pass
 
 def func2():
-	pass
+	print("Hello, I am in function2")
 
 def func3():
 	pass
